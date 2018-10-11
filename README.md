@@ -2,14 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Welcome To My Page</title>
+<title></title>
 </head>
   <h1> Seattle 206 </h1>
 
 <body>
 The content of the document......
 </body>
-< a href=" https://sadomohamed.github.io/Seattle206/.">
+< a href="https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/08/15/12/smileyfaceemoji1508a.jpg?w968."> 
 Absolute Link to assigment 1-aroo
 </a>
 
