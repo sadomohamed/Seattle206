@@ -1,2 +1,2 @@
 # Seattle206
-My Website
+My WebPage
