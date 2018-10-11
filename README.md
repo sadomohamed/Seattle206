@@ -1,4 +1,3 @@
-# Seattle206
 
 <!DOCTYPE html>
 <html>
@@ -10,5 +9,15 @@
 <body>
 The content of the document......
 </body>
+< a href=" https://sadomohamed.github.io/Seattle206/.">
+Absolute Link to assigment 1-aroo
+</a>
+
+<hr />
+<a href="
+
+
 
 </html>
+
+
