@@ -1,10 +1,11 @@
 # Seattle206
-Welcome To My Page 
+
 <!DOCTYPE html>
 <html>
 <head>
-<title>Title of the document</title>
+<title>Welcome To My Page</title>
 </head>
+  <h1> Seattle 206 </h1>
 
 <body>
 The content of the document......
